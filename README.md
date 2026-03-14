@@ -24,5 +24,22 @@ Smart Awake Bot
 * pip install -r requirements.txt
 * python main.py
 
+**For donwloading the bot exe file**
+# Smart Awake Bot
 
+Desktop tool that prevents system inactivity by simulating mouse and keyboard activity.
 
+## Download
+
+Download the latest version:
+
+https://github.com/kruti20/smart_awake_bot/releases/
+
+Download the `.exe` and run it directly.
+
+## Features
+
+- Start / Stop activity simulation
+- GUI interface
+- Custom interval
+- Lightweight desktop tool
