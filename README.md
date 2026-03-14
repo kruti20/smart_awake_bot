@@ -1,22 +1,23 @@
-Project Title
+**Project Title**
 Smart Awake Bot
 
-Screenshots
+**Screenshots**
+![Alt Text](bot_images/start.png)
 
-
-Features
+**Features**
 * Prevents system inactivity
 * Random mouse simulation
 * Keyboard simulation
 * Custom interval
 * Desktop GUI
 
-Technologies
+**Technologies**
 * Python
 * Tkinter
 * PyAutoGUI
 * PyInstaller
-Installation
+
+**Installation**
 * Git clone https://github.com/kruti20/smart_awake_bot.git
 * cd smart_awake_bot
 * python -m venv smart_bot
