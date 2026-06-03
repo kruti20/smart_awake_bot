@@ -1,2 +1,4 @@
 pyautogui
+pystray
+pillow
 loguru
